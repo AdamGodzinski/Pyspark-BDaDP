@@ -28,7 +28,7 @@ Start Container:
 docker start hadoop
 ```
 
-# Start and Stop Hadoop within Container:
+# Start Working in container:
 
 Restart ssh
 ```
