@@ -60,8 +60,6 @@ EXPOSE 8032
 EXPOSE 8888
 EXPOSE 30000-50000
 
-RUN /home/hadoop/hadoop/bin/hdfs namenode -format
-
 
 
 
