@@ -65,5 +65,4 @@ RUN /home/hadoop/hadoop/bin/hdfs namenode -format
 
 
 
-
  
